@@ -1,8 +1,8 @@
-package main
+/*package main
 
 import "fmt"
 
-/*func main() {
+func main() {
 	a := [3]string{"小强", "男", "在职"}
 	b := [3]string{"小强", "男", "在职"}
 	c := [3]string{"小强", "男", "在职"}
@@ -11,7 +11,7 @@ import "fmt"
 
 	fmt.Println(newgroupinfo)
 
-}*/
+}
 
 /*func main() {
 	a := [3]string{"小名", "男", "在职"}
@@ -43,3 +43,4 @@ func main() {
 	}
 	fmt.Println(b)
 }
+*/
