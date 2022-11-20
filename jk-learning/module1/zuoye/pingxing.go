@@ -7,7 +7,7 @@ import "fmt"
 
 func main() {
 	var p1x, p1y, p2x, p2y, p3x, p3y, p4x, p4y float64
-	fmt.Print("录入第一个点的x:")
+	fmt.Print("录入第一个点的ax:")
 	fmt.Scanln(&p1x)
 	fmt.Print("录入第一个点的y:")
 	fmt.Scanln(&p1y)
